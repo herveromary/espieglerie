@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["contact-buttons-var-10"],{"../modules/floating-buttons/assets/js/frontend/handlers/contact-buttons-v10.js":
+/*! elementor-pro - v3.27.0 - 10-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["contact-buttons-var-10"],{"../modules/floating-buttons/assets/js/frontend/handlers/contact-buttons-v10.js":
 /*!**************************************************************************************!*\
   !*** ../modules/floating-buttons/assets/js/frontend/handlers/contact-buttons-v10.js ***!
   \**************************************************************************************/

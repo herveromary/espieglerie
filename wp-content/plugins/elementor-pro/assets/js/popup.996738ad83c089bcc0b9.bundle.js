@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["popup"],{"../modules/popup/assets/js/frontend/handlers/forms-action.js":
+/*! elementor-pro - v3.27.0 - 10-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["popup"],{"../modules/popup/assets/js/frontend/handlers/forms-action.js":
 /*!********************************************************************!*\
   !*** ../modules/popup/assets/js/frontend/handlers/forms-action.js ***!
   \********************************************************************/

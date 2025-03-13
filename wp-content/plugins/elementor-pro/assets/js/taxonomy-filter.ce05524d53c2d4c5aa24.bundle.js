@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["taxonomy-filter"],{"../assets/dev/js/frontend/utils/flex-horizontal-scroll.js":
+/*! elementor-pro - v3.27.0 - 10-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["taxonomy-filter"],{"../assets/dev/js/frontend/utils/flex-horizontal-scroll.js":
 /*!*****************************************************************!*\
   !*** ../assets/dev/js/frontend/utils/flex-horizontal-scroll.js ***!
   \*****************************************************************/

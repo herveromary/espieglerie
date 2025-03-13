@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["floating-bars-var-3"],{"../modules/floating-buttons/assets/js/frontend/handlers/floating-bars-v3.js":
+/*! elementor-pro - v3.27.0 - 10-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["floating-bars-var-3"],{"../modules/floating-buttons/assets/js/frontend/handlers/floating-bars-v3.js":
 /*!***********************************************************************************!*\
   !*** ../modules/floating-buttons/assets/js/frontend/handlers/floating-bars-v3.js ***!
   \***********************************************************************************/

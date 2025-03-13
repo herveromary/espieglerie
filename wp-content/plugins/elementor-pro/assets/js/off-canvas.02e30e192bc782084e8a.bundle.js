@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["off-canvas"],{"../modules/off-canvas/assets/js/frontend/handlers/off-canvas.js":
+/*! elementor-pro - v3.27.0 - 10-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["off-canvas"],{"../modules/off-canvas/assets/js/frontend/handlers/off-canvas.js":
 /*!***********************************************************************!*\
   !*** ../modules/off-canvas/assets/js/frontend/handlers/off-canvas.js ***!
   \***********************************************************************/

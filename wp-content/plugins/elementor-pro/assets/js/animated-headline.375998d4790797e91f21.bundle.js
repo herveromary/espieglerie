@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["animated-headline"],{"../modules/animated-headline/assets/js/frontend/handlers/animated-headlines.js":
+/*! elementor-pro - v3.27.0 - 10-03-2025 */"use strict";(self["webpackChunkelementor_pro"]=self["webpackChunkelementor_pro"]||[]).push([["animated-headline"],{"../modules/animated-headline/assets/js/frontend/handlers/animated-headlines.js":
 /*!**************************************************************************************!*\
   !*** ../modules/animated-headline/assets/js/frontend/handlers/animated-headlines.js ***!
   \**************************************************************************************/
